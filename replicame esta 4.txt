@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+
+<table>
+<tr> <td>
+<img scr="dominicana.png" white="95" heingt="95">
+<td>
+</tr>
+<tr>
+<th>Republica dominicana<th/>
+<td>Pais Tropical con hermosas playas<td>
+</tr>
+<tr>
+<th>Himno Nacional</th>
+<td>
+<iframe width="200" height="300" src="https://www.youtube.com/embed/aV2DNe3vTfc?si=NgZTspzxhoiBBAip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</tr>
+</table>
+</head>
+<html>
