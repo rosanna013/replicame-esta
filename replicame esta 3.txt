@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title></title>
+<body>
+<table>
+<tr>
+<th consoland=9>FORMULARIO</th>
+</tr>
+<tr>
+<td conlspan=3 rowspans=2>Nombre</td>
+<td conlspan=3 rowspans=2>Apellido</td>
+<td conlspan=3 rowspans=2>Correo</td>
+<td conlspan=3 rowspans=2>Edad</td>
+<td conlspan=3 rowsans=2>Contaseña</td>
+<td conlspan=3 rowspans=2>repetir contaseña</td>
+</tr>
+<tr>
+<form>
+<td cconlspan=6 rowspas=2><input type="text" ></td>
+<td conlspan=6 rowspas=2><input type="text"></td>
+<td conlspan=6 rowspas=2><input type="email" ></td>
+<td conlspan=6 rowspas=2><input type="numbert" ></td>
+<td conlspan=6 rowspas=2><input type="password" ></td>
+<td conlspan=6 rowspas=2><input type="password" ></td>
+<tr>
+<boutton="" conlspan="9" rowspas="2">Enviar</boutton></tr>
+</form>
+</tr>
+</table>
+</body>
+</head>
+<html>
